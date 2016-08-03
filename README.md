@@ -4,7 +4,7 @@
 <br>
 ---
 
-<img src="https://github.com/Mizuho0v0/Photo/blob/master/IMG_1706.JPG?raw=true" alt="しっぽちゃん" title="サンプル">
+<img src="https://github.com/Mizuho0v0/Photo/blob/master/IMG_1706.JPG?raw=true" alt="しっぽちゃん" title="サンプル" width="400" height="600">
 
 # 愛猫
 しっぽちゃん<br>
