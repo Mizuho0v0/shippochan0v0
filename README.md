@@ -3,7 +3,8 @@
 ゴールはWebサイト公開
 
 ---
-Photo/IMG_1706.JPG
+
+<img src="https://github.com/Mizuho0v0/Photo/blob/master/IMG_1706.JPG?raw=true" alt="しっぽちゃん" title="サンプル">
 
 # 愛猫
 しっぽちゃん
