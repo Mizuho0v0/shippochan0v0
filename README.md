@@ -1,7 +1,7 @@
 ﻿# shippochan0v0
-愛猫しっぽちゃんを愛でる会
-ゴールはWebサイト公開
-
+愛猫しっぽちゃんを愛でる会<br>
+ゴールはWebサイト公開<br>
+<br>
 ---
 
 <img src="https://github.com/Mizuho0v0/Photo/blob/master/IMG_1706.JPG?raw=true" alt="しっぽちゃん" title="サンプル">
